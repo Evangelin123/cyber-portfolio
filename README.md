@@ -1,60 +1,52 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# Hello, I'm EVANGELIN J
+<a href="https://www.linkedin.com/in/j-evangelin-jebadass/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/Evangelin123"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+I'm a Computer Science Engineering student specializing in Cyber Security, with an interest in cybersecurity, artificial intelligence, machine learning, and intelligent security solutions.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+To apply my knowledge of cybersecurity and AI/ML to develop secure, intelligent systems and contribute to solving real-world security challenges.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Java Programming                              | <a Programming Practice</a>|
+| Cybersecurity                                 | <a Honeypot in Cybersecurity</a>|
+| Network Traffic Classification                | Encrypted Network Traffic Classification Using ML|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 ### Network
+
 <div>
+    <img src="https://img.shields.io/badge/-TCP%2FIP-00599C?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Network_Traffic_Analysis-2E8B57?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
 
 ### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Intrusion_Detection-8A2BE2?&style=for-the-badge&logo=securityscorecard&logoColor=white" /> </div>
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Network_Traffic_Analysis-0078D4?&style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Security_Analytics-2E8B57?&style=for-the-badge&logo=elastic&logoColor=white" /> </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Cloud_Foundations-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Deloitte_Data_Analytics-86BC25?&style=for-the-badge&logo=deloitte&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine_Learning_with_Python-054ADA?&style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java_Programming-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C_Programming-3949AB?&style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCS_iON_Career_Edge-5B2C83?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_OS_and_Security-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+<div>
+    <img src="https://img.shields.io/badge/-Honeypot_in_Cybersecurity-FF4500?&style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Encrypted_Network_Traffic_Classification-0078D4?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
+</div>
+
